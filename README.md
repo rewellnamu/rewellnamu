@@ -1,5 +1,5 @@
-GREETINGS' FELLOW DEVELOPER
-Welcome!
+GREETINGS' FELLOW DEVELOPER!
+
 Hello, and thank you for visiting my GitHub profile.
 
 I am passionate about software development and continually strive to build impactful projects. Below are some of my featured repositories:
