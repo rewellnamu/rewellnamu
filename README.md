@@ -1,36 +1,38 @@
-GREETINGS' FELLOW DEVELOPER!
+### Hello, and thank you for visiting my GitHub profile 👋
 
-Hello, and thank you for visiting my GitHub profile.
+I'm a full-stack software developer and IT specialist based in Kenya, passionate about building impactful, real-world systems — from fintech and lending platforms to AI-powered mobile apps and security research.
 
-I am passionate about software development and continually strive to build impactful projects. Below are some of my featured repositories:
+---
 
-Portfolio: A showcase of my professional and personal projects.
+### 🚀 Featured Projects ### 🆕 Recent Apps & Systems
 
-IMAGE-METADATA-ANALYZER: A tool for analyzing image metadata efficiently.
+- **Leric** — Lending platform (Node.js/Express, MariaDB, React admin) with M-Pesa B2C/C2B/STK Push, automated repayment reconciliation, credit risk scoring, and OTP-based security hardening.
+- **E-Nyumba** — Rental property marketplace for the Embu/Mt. Kenya region (Angular 19 + NestJS 11 + Prisma 7 + PostgreSQL) with JWT RBAC, M-Pesa/Paystack payments, and OTP phone verification.
+- **Ruthers Ventures POS** — Local point-of-sale system for a cyber café (React/Vite/Tailwind + Node.js/Express/SQLite) with browsing station timers, QR-labeled inventory, cash till reconciliation, and profit/margin tracking.
+- **SmartPOS** — Multi-tenant SaaS POS mobile app (Node.js/Express + React Native/Expo) with QR/barcode scan-to-checkout, M-Pesa STK Push, and offline-first sync.
+- **HunterSkool** — React Native/Expo student portal with role-based login, an AI tutor, and AI-based image diagnosis powered by Groq vision models.
+- **DawaCheck** — React Native/Expo app for detecting fake medicine in East African markets, using Groq vision, OpenFDA/RxNorm APIs, and barcode scanning.
+- **Shamba AI** — Crop disease detection for smallholder farmers using Groq vision and live weather data, built serverless on React Native/Expo.
+- **ChaiPrice** — Tea auction price transparency app for KTDA farmers (Node.js/Express + MariaDB + React Native).
+- **Superior Alu System** — Public-facing catalog and lead-capture frontend for a Kenyan aluminium & glass supply company.
 
-IDENTITY: Solutions focused on digital identity management.
+---
 
-SIMPLE-EMOTION-AI-DETECTOR: An AI-based system for detecting emotions from images.
+### 🔐 Security Testing
 
-BACKEND-FACE-DETECTION-PYTHON: Python backend for robust face detection.
+I also conduct authorized penetration testing and security QA work, including:
 
-About Me
-🔭 Currently working on innovative AI and backend projects.
-🌱 Always learning new technologies and best practices.
-👯 Open to collaboration on meaningful projects.
-💬 Feel free to reach out if you have questions or would like to connect.
+- Identifying and fixing critical vulnerabilities (IDOR, OTP account takeover) on live government e-services platforms.
+- Auditing internal systems for issues like hardcoded credentials, weak password hashing, and stored XSS.
+- Subdomain enumeration, exposed `.git` directory discovery, and credential-leak reviews across public repos.
+- Producing full pentest reports with remediation steps.
 
-<!--
-**rewellnamu/rewellnamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👤 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently building fintech, marketplace, and AI-powered mobile apps across Kenya.
+- 🛡️ Also active in authorized penetration testing and security QA.
+- 🌱 Always learning new technologies and best practices.
+- 👯 Open to collaboration on meaningful projects.
+- 💬 Feel free to reach out if you have questions or would like to connect.
