@@ -4,28 +4,33 @@ I'm a full-stack software developer and IT specialist based in Kenya, passionate
 
 ---
 
-### 🚀 Featured Projects ### 🆕 Recent Apps & Systems
+### 🚀 Featured Projects
 
-- **Leric** — Lending platform (Node.js/Express, MariaDB, React admin) with M-Pesa B2C/C2B/STK Push, automated repayment reconciliation, credit risk scoring, and OTP-based security hardening.
-- **E-Nyumba** — Rental property marketplace for the Embu/Mt. Kenya region (Angular 19 + NestJS 11 + Prisma 7 + PostgreSQL) with JWT RBAC, M-Pesa/Paystack payments, and OTP phone verification.
-- **Ruthers Ventures POS** — Local point-of-sale system for a cyber café (React/Vite/Tailwind + Node.js/Express/SQLite) with browsing station timers, QR-labeled inventory, cash till reconciliation, and profit/margin tracking.
-- **SmartPOS** — Multi-tenant SaaS POS mobile app (Node.js/Express + React Native/Expo) with QR/barcode scan-to-checkout, M-Pesa STK Push, and offline-first sync.
-- **HunterSkool** — React Native/Expo student portal with role-based login, an AI tutor, and AI-based image diagnosis powered by Groq vision models.
-- **DawaCheck** — React Native/Expo app for detecting fake medicine in East African markets, using Groq vision, OpenFDA/RxNorm APIs, and barcode scanning.
-- **Shamba AI** — Crop disease detection for smallholder farmers using Groq vision and live weather data, built serverless on React Native/Expo.
-- **ChaiPrice** — Tea auction price transparency app for KTDA farmers (Node.js/Express + MariaDB + React Native).
-- **Superior Alu System** — Public-facing catalog and lead-capture frontend for a Kenyan aluminium & glass supply company.
+- **[Portfolio](https://github.com/rewellnamu/Portfolio)** — A showcase of my professional and personal projects.
+- **[IMAGE-METADATA-ANALYZER](https://github.com/rewellnamu/IMAGE-METADATA-ANALYZER)** — A tool for analyzing image metadata efficiently.
+- **[IDENTITY](https://github.com/rewellnamu/IDENTITY)** — Solutions focused on digital identity management.
+- **[SIMPLE-EMOTION-AI-DETECTOR](https://github.com/rewellnamu/SIMPLE-EMOTION-AI-DETECTOR)** — An AI-based system for detecting emotions from images.
+- **[BACKEND-FACE-DETECTION-PYTHON](https://github.com/rewellnamu/BACKEND-FACE-DETECTION-PYTHON)** — Python backend for robust face detection.
+
+---
+
+### 🆕 Recent Apps & Systems
+
+- **Leric** — Lending platform with M-Pesa integration and an admin dashboard.
+- **E-Nyumba** — Rental property marketplace for the Embu/Mt. Kenya region.
+- **Ruthers Ventures POS** — Local point-of-sale system for a cyber café.
+- **SmartPOS** — Multi-tenant SaaS POS mobile app with M-Pesa checkout.
+- **HunterSkool** — Student portal with an AI tutor and image diagnosis features.
+- **DawaCheck** — App for detecting fake medicine, built for East African markets.
+- **Shamba AI** — Crop disease detection for smallholder farmers.
+- **ChaiPrice** — Tea auction price transparency app for KTDA farmers.
+- **Superior Alu System** — Public catalog and lead-capture frontend for an aluminium & glass supplier.
 
 ---
 
 ### 🔐 Security Testing
 
-I also conduct authorized penetration testing and security QA work, including:
-
-- Identifying and fixing critical vulnerabilities (IDOR, OTP account takeover) on live government e-services platforms.
-- Auditing internal systems for issues like hardcoded credentials, weak password hashing, and stored XSS.
-- Subdomain enumeration, exposed `.git` directory discovery, and credential-leak reviews across public repos.
-- Producing full pentest reports with remediation steps.
+I also conduct authorized penetration testing and security QA across a range of systems — vulnerability discovery, remediation, and reporting.
 
 ---
 
